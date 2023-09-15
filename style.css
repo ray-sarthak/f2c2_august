@@ -1,0 +1,28 @@
+html{
+    background-color: aquamarine;
+}
+
+input{
+    border:3px solid rgb(224, 226, 215);
+    margin-bottom: 2vw;
+    background-color: blanchedalmond;
+}
+table{
+    border-collapse:collapse;
+    width:100%;
+}
+th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  tr:nth-child(even) {
+    background-color: #63e8b0;
+    color:rgb(4, 63, 77);
+    border-radius: 2px;
+  }
+  button{
+    border: none;
+    background-color: blanchedalmond;
+    margin-left: 1vw;
+    border-radius: 3px;
+  }
